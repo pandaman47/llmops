@@ -1,0 +1,5 @@
+2025-08-22 12:52:47,522 - DEBUG - Tool 0: estimate_total_hotel_cost
+2025-08-22 12:52:47,522 - DEBUG - Tool 1: calculate_total_expense
+2025-08-22 12:52:47,522 - DEBUG - Tool 2: calculate_daily_expense_budget
+2025-08-22 12:52:47,522 - DEBUG - attempting to call estimate_total_hotel_cost tool
+2025-08-22 12:52:47,601 - DEBUG - success
